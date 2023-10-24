@@ -1,1 +1,3 @@
 # ExpenseTrackerApp
+
+Expense Tracker App created using Django. UI is in progress...
